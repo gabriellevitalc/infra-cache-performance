@@ -29,7 +29,7 @@ for tamanho in tamanhos_mb:
             [tamanho, repeticao + 1, largura_banda]
         )
 
-with open("resultados_memoria.csv", "w", newline="") as arquivo:
+with open("dados/resultados_memoria.csv", "w", newline="") as arquivo:
 
     writer = csv.writer(arquivo)
 

@@ -1,0 +1,7 @@
+HENNESSY, J. L.; PATTERSON, D. A. Computer Architecture: A Quantitative Approach.
+
+MCCALPIN, J. D. STREAM Benchmark (1995).
+
+INTEL. Intel 12th Gen Architecture Documentation.
+
+Sistemas de memória e desempenho computacional - artigos acadêmicos sobre cache hierarchy.
